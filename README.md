@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
   subgraph Warmup[Stage 0: Warmup (仅 IM)]
     A[Target Images] --> B[Encoder]
